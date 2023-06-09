@@ -17,7 +17,7 @@ Horiseon marketing agency requires some refactoring of their code so that it mee
 
 ## Screenshot of page
 
-You can view a screenshot of the updated page ![Horiseon screenshot](/assets/images/127.0.0.1_5501_Develop_index.html (1).png)
+[Screenshot](<assets/images/127.0.0.1_5501_Develop_index.html%20(1).png>)
 
 ## Application Link
 
